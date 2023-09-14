@@ -1,0 +1,7 @@
+C:\Users\esrag\source\repos\InterfaceSegregation\InterfaceSegregation\bin\Debug\InterfaceSegregation.exe.config
+C:\Users\esrag\source\repos\InterfaceSegregation\InterfaceSegregation\bin\Debug\InterfaceSegregation.exe
+C:\Users\esrag\source\repos\InterfaceSegregation\InterfaceSegregation\bin\Debug\InterfaceSegregation.pdb
+C:\Users\esrag\source\repos\InterfaceSegregation\InterfaceSegregation\obj\Debug\InterfaceSegregation.csprojAssemblyReference.cache
+C:\Users\esrag\source\repos\InterfaceSegregation\InterfaceSegregation\obj\Debug\InterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\InterfaceSegregation\InterfaceSegregation\obj\Debug\InterfaceSegregation.exe
+C:\Users\esrag\source\repos\InterfaceSegregation\InterfaceSegregation\obj\Debug\InterfaceSegregation.pdb
